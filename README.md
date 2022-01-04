@@ -1,7 +1,8 @@
 # my_gesture_tshirts
 
 ## 素敵なTシャツとの出会い
-Amazonでたまたま見つけたこのTシャツ。 
+Amazonでたまたま見つけたこのTシャツ。
+
 ![tshirts](https://github.com/hiromasat/my_gesture_tshirts/blob/main/tshirts.png "tshirts")  
 
 この手の動きが気になって、グラフを作成。
